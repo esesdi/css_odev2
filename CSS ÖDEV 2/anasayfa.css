@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, sans-serif;
+}
+div a{
+    text-decoration: none;
+    color: gray;
+    margin-right: 10px;
+}
+.left-bar{
+    margin:20px 20px;
+    font-size: 15px;
+    float: left;
+}
+.right-bar{
+    float: right;
+    margin:20px 20px;
+    font-size: 15px;
+}
+.foto{
+    margin: 100px 600px 10px;
+}
+.input{
+    margin: 10px 555px 10px;
+    padding: 10px 100px;
+    border-radius: 10px;
+}
+.buton{
+    margin: 10px 10px 10px 610px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color:  rgb(240, 240, 240);
+}
+.buton2{
+    padding: 10px 10px;
+    border-radius: 5 px;
+    background-color:  rgb(240,240,240);
+}
